@@ -8,4 +8,4 @@
   * Extract features
   * Train the model
   * Evaluate the model
-  * Predict the model
+  * Predict via the model
