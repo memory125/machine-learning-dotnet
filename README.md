@@ -1,7 +1,7 @@
-# machine-leraning-dotnet
+# Machine Learning Dotnet
 * This repository is focus on machine learning sample via ML.net.
 
-# Sentiment Analysis
+## Sentiment Analysis
 * This sample includes the following operations.
   * Prepare data
   * Load the data
