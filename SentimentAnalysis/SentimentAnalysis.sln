@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalysis", "SenimentAnalysis\SentimentAnalysis.csproj", "{37EB3F66-5A03-42E5-9B71-C4471E2DC2CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentimentAnalysis", "SentimentAnalysis\SentimentAnalysis.csproj", "{B97B184B-7572-434E-A7D2-2702521B49D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{37EB3F66-5A03-42E5-9B71-C4471E2DC2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37EB3F66-5A03-42E5-9B71-C4471E2DC2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37EB3F66-5A03-42E5-9B71-C4471E2DC2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37EB3F66-5A03-42E5-9B71-C4471E2DC2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97B184B-7572-434E-A7D2-2702521B49D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97B184B-7572-434E-A7D2-2702521B49D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97B184B-7572-434E-A7D2-2702521B49D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97B184B-7572-434E-A7D2-2702521B49D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1CE92F8C-1FFF-42B9-A74A-BDEB82657A71}
+		SolutionGuid = {52B02ADF-4282-4AD3-803C-99C2378AD1CE}
 	EndGlobalSection
 EndGlobal
