@@ -8,7 +8,7 @@ using Microsoft.ML.Data;
 using Microsoft.ML.Trainers;
 using Microsoft.ML.Transforms.Text;
 
-namespace SenimentAnalysis
+namespace SentimentAnalysis
 {
     class Program
     {

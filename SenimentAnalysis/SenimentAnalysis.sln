@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenimentAnalysis", "SenimentAnalysis\SenimentAnalysis.csproj", "{37EB3F66-5A03-42E5-9B71-C4471E2DC2CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalysis", "SenimentAnalysis\SentimentAnalysis.csproj", "{37EB3F66-5A03-42E5-9B71-C4471E2DC2CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
