@@ -5,6 +5,7 @@
   * Issue Classification
   * Price Prediction
   * Iris Flower Clustering
+  * Moive Recommendation
   
 ## Sentiment Analysis
 * This sample includes the following operations.
@@ -46,3 +47,14 @@
   * Save the model as .zip file
   * Evaluate the model
   * Predict via the model
+
+## Moive Recommendation
+* This sample includes the following operations.
+  * Prepare the data
+  * Load the data
+  * Extract features
+  * Train the model
+  * Save the model as .zip file
+  * Evaluate the model
+  * Predict via the model
+  * Improve the model
