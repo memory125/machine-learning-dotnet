@@ -6,7 +6,16 @@
   
 ## Sentiment Analysis
 * This sample includes the following operations.
-  * Prepare data
+  * Prepare the data
+  * Load the data
+  * Extract features
+  * Train the model
+  * Evaluate the model
+  * Predict via the model
+
+## Issue Classification
+* This sample includes the following operations.
+  * Prepare the data
   * Load the data
   * Extract features
   * Train the model
