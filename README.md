@@ -4,6 +4,7 @@
   * Sentiment Anaysis
   * Issue Classification
   * Price Prediction
+  * Iris Flower Clustering
   
 ## Sentiment Analysis
 * This sample includes the following operations.
@@ -27,6 +28,17 @@
 
 ## Price Prediction
 * This sample includes the following operations.
+  * Prepare the data
+  * Load the data
+  * Extract features
+  * Train the model
+  * Save the model as .zip file
+  * Evaluate the model
+  * Predict via the model
+
+## Iris Flower Clustering
+* This sample includes the following operations.
+  * Select the appropriate machine learning - unsupervized machine learning
   * Prepare the data
   * Load the data
   * Extract features
