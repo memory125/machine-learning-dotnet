@@ -6,6 +6,7 @@
   * Price Prediction
   * Iris Flower Clustering
   * Moive Recommendation
+  * Probabilistic Sample
   
 ## Sentiment Analysis
 * This sample includes the following operations.
@@ -58,3 +59,6 @@
   * Evaluate the model
   * Predict via the model
   * Improve the model
+
+## Probabilistic Sample
+* This sample is for statistical models implemented by Infer.Net.
